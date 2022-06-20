@@ -10,11 +10,19 @@ html {
 body {
   margin: 1rem;
   font-family: sans-serif;
-  line-height: 1.5;
 }
 
 img,
 video {
   height: auto;
   max-width: 100%;
+}
+
+h4 {
+  margin-top: -20px;
+}
+
+#navbar {
+  display: flex;
+  
 }
