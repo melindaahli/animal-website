@@ -18,8 +18,20 @@ video {
   max-width: 100%;
 }
 
+a{
+text-decoration: none;
+}
+
 h4 {
   margin-top: -20px;
+}
+
+h3 {
+  margin-bottom: -10px;
+}
+
+li{
+  margin-bottom: 5px;
 }
 
 #navbar {
@@ -37,5 +49,4 @@ h4 {
   color: white;
   font-size: 15px;
   background-color: gray;
-  text-decoration: none
 }
