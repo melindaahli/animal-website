@@ -34,7 +34,7 @@ li{
   margin-bottom: 5px;
 }
 
-#navbar {
+.container {
   display: flex;
   justify-content: space-between;
 }
